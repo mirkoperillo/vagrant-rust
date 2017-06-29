@@ -1,14 +1,14 @@
-Requirements
+# Requirements
 
 * VirtualBox
 * Vagrant
 
-Tech Stack
+# Tech Stack
 
 * Ubuntu 12.04 64bit
 * Last rust dev env
 
-Instructions
+# Instructions
 
 * Clone the project
 * Create the VM with `vagrant up`
