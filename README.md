@@ -17,3 +17,8 @@
 * Install rust stuff `curl https://sh.rustup.rs -sSf | sh`
 * Put rust binaries in path `export PATH=$PATH:~/.cargo/bin/`
 
+# Simple sample
+* `cargo new hello_world --bin`
+* `cd hello_world`
+* `cargo run`
+
