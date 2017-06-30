@@ -18,6 +18,8 @@
 * Put rust binaries in path `export PATH=$PATH:~/.cargo/bin/`
 
 # Simple sample
+* `mdkir /vagrant/rust-workspace`
+* `cd /vagrant/rust-workspace`
 * `cargo new hello_world --bin`
 * `cd hello_world`
 * `cargo run`
